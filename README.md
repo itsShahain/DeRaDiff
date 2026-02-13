@@ -1,4 +1,4 @@
-# DeRaDiff — Denoising Realignment for Diffusion Models
+# DeRaDiff — Denoising Time Realignment of Diffusion Models (ICLR 2026)
 
 Official implementation of **DeRaDiff**, a test-time realignment method for diffusion models. DeRaDiff performs regularized realignment at inference by interpolating between a base diffusion model and a reward-aligned anchor model during the denoising process, controlled by a hyperparameter λ. The framework supports both Stable Diffusion 1.5 and Stable Diffusion XL, and evaluates generated images using CLIP Score, HPS, and PickScore metrics.
 
