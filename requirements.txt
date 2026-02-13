@@ -1,0 +1,10 @@
+transformers
+torch
+torchvision
+diffusers
+requests
+clint
+pyyaml
+tqdm
+hpsv2
+ftfy
